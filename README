@@ -1,0 +1,6 @@
+How to run UNO card game
+node uno.js
+
+or 
+copy line 6 to console and only use word uno to run it. ls
+alias uno='node uno.js'
